@@ -20,6 +20,7 @@ the_shawshank_redemption = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SY1000_CR0,0,672,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=NmzuHjWmXOc"
     )
+
 the_godfather = movie.Movie(
     "The Godfather",
     "The aging patriarch of an organized crime dynasty transfers control of"
@@ -27,6 +28,7 @@ the_godfather = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,704,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=sY1S34973zA"
     )
+
 the_godfather_ii = movie.Movie(
     "The Godfather: Part II",
     "The early life and career of Vito Corleone in 1920s New York is portrayed"
@@ -35,6 +37,7 @@ the_godfather_ii = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,702,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=9O1Iy9od7-A"
     )
+
 the_dark_knight = movie.Movie(
     "The Dark Knight",
     "When the menace known as the Joker emerges from his mysterious past,"
@@ -44,6 +47,7 @@ the_dark_knight = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=EXeTwQWrcwY"
     )
+
 twelve_angry_men = movie.Movie(
     "12 Angry Men",
     "A jury holdout attempts to prevent a miscarriage of justice by "
@@ -51,6 +55,7 @@ twelve_angry_men = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=Dosg0p7LAB4"
     )
+
 schindler_list = movie.Movie(
     "Schindler's List",
     "In German-occupied Poland during World War II, Oskar Schindler gradually"
@@ -59,6 +64,7 @@ schindler_list = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_CR0,0,666,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=gG22XNhtnoY"
     )
+
 pulp_fiction = movie.Movie(
     "Pulp Fiction",
     "The lives of two mob hit men, a boxer, a gangster's wife, and "
@@ -67,6 +73,7 @@ pulp_fiction = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_SY1000_CR0,0,673,1000_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
     )
+
 the_lord_of_the_rings = movie.Movie(
     "The Lord of the Rings: The Return of the King",
     "Gandalf and Aragorn lead the World of Men against Sauron's army"
@@ -75,6 +82,7 @@ the_lord_of_the_rings = movie.Movie(
     "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SY1000_SX668_AL_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
     )
+
 good_bad_ugly = movie.Movie(
     "The Good, the Bad and the Ugly",
     "A bounty hunting scam joins two men in an uneasy alliance"
