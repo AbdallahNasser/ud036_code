@@ -6,6 +6,7 @@
 # Poster: a link to the movie's poster
 # traileer: a link to the movie trailer on Youtube.com
 
+
 class Movie():
 
     def __init__(self, title, storyline, poster, trailer):
@@ -13,4 +14,3 @@ class Movie():
         self.storyline = storyline
         self.poster = poster
         self.trailer = trailer
-
